@@ -25,7 +25,7 @@ This is a Jupyter notebook implementation of a drowsiness detection machine lear
 ## Model Building
 The init_model() function is used to build the machine learning model. It is a sequential model with a 2D convolutional layer, max pooling layer, flatten layer, and dense layer. The output layer has 6 units, which corresponds to the number of categories in the dataset.
 
-# Conclusion
+## Conclusion
 This Jupyter notebook implementation of a drowsiness detection machine learning model is an example of how machine learning can be used for image processing and classification tasks. The model is trained on a dataset with six categories, and the accuracy of the model can be improved by adding more data to the dataset and fine-tuning the model's hyperparameters.
 
 
